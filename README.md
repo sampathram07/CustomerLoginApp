@@ -9,3 +9,12 @@
 
 5)After registering the app, you'll get a Firebase SDK snippet# CustomerLoginApp
 T6)his is a simple React Native mobile app built with Expo, providing a secure Customer Login system using Firebase Authentication.
+
+To Add user for Login : 
+1)Go to Firebase Console → Authentication > Users
+
+2)Make sure the email you're using exists there.
+
+3)If not, create a new user:
+
+
